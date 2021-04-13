@@ -12,6 +12,10 @@ gp_pratice.sql
 patient) to log in/add themselves to GP system. They can 
 view and make appointments. Uses gp_database module which 
 contains functions to access the GP database.
+![gp_app_scheduler_screenshot1](https://user-images.githubusercontent.com/80896538/114599337-df420d80-9c8a-11eb-8bed-09dfcaeac12b.jpg)
+![gp_app_scheduler_screenshot3](https://user-images.githubusercontent.com/80896538/114599425-fb45af00-9c8a-11eb-81d8-b61efd5aed85.jpg)
+
+
 
 2) The database in the code is on a local server and you 
 will need to replace the host name, username and password. 
