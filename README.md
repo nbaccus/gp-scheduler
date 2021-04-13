@@ -1,5 +1,5 @@
 # gp-scheduler
-small project to design an patient/gp login GUI
+Patient/GP login GUI
 =======================
 Files inluded:
 gp_app_scheduler.py
